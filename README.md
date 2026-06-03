@@ -1,2 +1,2 @@
-# Date-functions-SQL
+Date-functions-SQL
 Dashboard
